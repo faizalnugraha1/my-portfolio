@@ -33,7 +33,7 @@ export const projects = [
   },
   {
     title: "My Wifi Backend",
-    description: "Internal tool for business process automation",
+    description: "Order Management System (OMS) tool for business process automation",
     tech: ["PHP", "ZEND", "Oracle", "Docker"],
     image: "/images/projects/Mywifi.jpg",
     // demoUrl: "https://demo.example.com",
@@ -48,7 +48,7 @@ export const projects = [
   },
   {
     title: "Indibiz Partner & Customer Backend",
-    description: "Internal tool for business process automation",
+    description: "Order Management System (OMS) for business process automation",
     tech: ["PHP", "ZEND", "Oracle", "Docker"],
     image: "/images/projects/Indibiz.jpg",
     // demoUrl: "https://demo.example.com",
@@ -63,7 +63,7 @@ export const projects = [
   },
   {
     title: "Backend Helmet Store",
-    description: "A Go-based backend for managing helmet store inventory, featuring secure authentication, real-time stock updates, order tracking",
+    description: "A Go-based backend for managing Order Management System (OMS) helmet store",
     tech: ["GO-Languange", "GIN", "Postgre", "JWT"],
     image: "/images/projects/helm.jpg",
     // demoUrl: "https://demo.example.com",
@@ -77,7 +77,7 @@ export const projects = [
   },
   {
     title: "Wardrobe Racing E-Commerce",
-    description: "A Laravel e-commerce platform for Wardrobe Racing with Midtrans integration for secure payments. It offers efficient product management, real-time order tracking, inventory updates, and a user-friendly dashboard for easy control.",
+    description: "A Laravel e-commerce platform for Wardrobe Racing with Midtrans integration.",
     tech: ["Laravel", "E-Commerce", "Payment Gateway"],
     image: "/images/projects/WR.jpg",
     // demoUrl: "https://demo.example.com",
