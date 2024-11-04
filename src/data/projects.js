@@ -63,7 +63,7 @@ export const projects = [
   },
   {
     title: "Backend Helmet Store",
-    description: "A Go-based backend for managing Order Management System (OMS) helmet store",
+    description: "A Go-based backend for Order Management System (OMS) helmet store",
     tech: ["GO-Languange", "GIN", "Postgre", "JWT"],
     image: "/images/projects/helm.jpg",
     // demoUrl: "https://demo.example.com",
