@@ -90,4 +90,19 @@ export const projects = [
     ],
     icon: Globe
   },
+  {
+    title: "LPPM ITENAS",
+    description: "A Laravel Document Management System (DMS) platform for LPPM ITENAS.",
+    tech: ["Laravel", "DMS", "Enterprise Document Processing System"],
+    image: "/images/projects/surat.jpg",
+    // demoUrl: "https://demo.example.com",
+    githubUrl: "https://github.com/faizalnugraha1/lppm-itenas",
+    features: [
+      "Letter Generation",
+      "Document Management",
+      "Workflow Management",
+      "User Management"
+    ],
+    icon: Globe
+  },
 ];
